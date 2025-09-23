@@ -67,16 +67,21 @@ python3 plot_top_usernames.py
 python3 plot_timeline.py
 ```
 
+---
+
 ## 📊 Example Outputs
 
 ### Top Attacking IPs
-![Top IPs](images/top_ips.png)
+![Top IPs](Images/top_ips.png)
 
 ### Top Usernames Attempted
-![Top Usernames](images/top_usernames.png)
+![Top Usernames](Images/top_usernames.png)
 
 ### Attack Timeline
-![Timeline](images/timeline.png)
+![Timeline](Images/timeline.png)
+
+
+---
 
 
 ### 💡 Insights Gained
