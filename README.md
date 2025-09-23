@@ -92,10 +92,14 @@ Attacks come from a wide range of automated botnets.
 
 Simple honeypots can reveal attacker strategies without exposing real systems.
 
+---
+
 ### 🛡️ Disclaimer
 
 This honeypot was deployed in an isolated lab environment only.
 Never expose Cowrie directly to the public internet without proper safeguards.
+
+---
 
 ### 📎 Resources
 
