@@ -90,7 +90,7 @@ python3 plot_timeline.py
 
 - Attacks come from a wide range of automated botnets.
 
-Simple honeypots can reveal attacker strategies without exposing real systems.
+- Simple honeypots can reveal attacker strategies without exposing real systems.
 
 ---
 
