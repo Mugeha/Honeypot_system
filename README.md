@@ -108,3 +108,6 @@ Never expose Cowrie directly to the public internet without proper safeguards.
 [jq JSON Processor](https://stedolan.github.io/jq/)
 
 [Matplotlib](https://matplotlib.org/)
+
+## Blog post
+
